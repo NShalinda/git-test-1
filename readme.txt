@@ -9,6 +9,6 @@ Edit by Nipun
 Edit by ushan
 
 Edit by samitha <3
->>>>>>> 59af007d9d28e6de585f93fd3e142a1401fe8
+>>>>>>> 59af007d9d28e6de585f93fd3e142a1401f
 
-Edit 1 by nipun
+Edit by Nipun
